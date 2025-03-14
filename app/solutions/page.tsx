@@ -96,7 +96,7 @@ Thanks to our unique institutional knowledge, Sokorro can quickly identify the p
                   <h3 className="text-3xl font-avantgarde-bold text-[#212e21] mb-6">Cloud</h3>
                   <div className="space-y-6">
                     <p className="text-base md:text-lg font-avantgarde-bk text-[#212e21]">
-                    Cloud computing today encompasses a broad array of IT infrastructure services and software available on demand, over the Internet. Organizations of any size and across industries are leveraging the cloud to increase efficiency, improve performance, and reduce costs.
+                    Cloud computing today encompasses a broad array of IT infrastructure services and software available on demand, over the Internet. Organizations of any size and across industries are leveraging the cloud to increase efficiency, improve performance and reduce costs. Sokorro can help your company understand the market for these services and identify which components of your business are best suited to live in the cloud. Our capabilities include Infrastructure as a Service, Disaster Recovery as a Service, Desktop as a Service, Unified Communications as a Service and more.
                     </p>
                     
                   </div>
@@ -112,11 +112,11 @@ Thanks to our unique institutional knowledge, Sokorro can quickly identify the p
                   <h3 className="text-3xl font-avantgarde-bold text-[#212e21] mb-6">Network</h3>
                   <div className="">
                     <p className="text-base md:text-lg font-avantgarde-bk text-[#212e21]">
-                    Understanding the market for network technologies and picking the right provider can be a frustrating and time-consuming affair. Sokorro simplifies the procurement of network services, taking on vendor sales engagement and optimizing outcomes.
+                    Understanding the market for network technologies and picking the right provider can be a frustrating and time consuming affair for any enterprise. Sokorro simplifies the procurement of network services by taking on the  tedium of vendor sales engagement, reducing headaches and optimizing outcomes along the way. We are provider agnostic and remain by your side throughout the lifecycle of your network keeping your vendors accountable and honest. 
                     
                     </p>
                     <p className="text-base md:text-lg font-avantgarde-bk text-[#212e21] pb-10">
-                    Our competencies include IP transit, private line, SD-WAN, and cloud connectivity.
+                    Our competencies include IP transit, private line, Ethernet, SD-WAN, and cloud connectivity.
                     </p>
                   </div>
                 </div>
