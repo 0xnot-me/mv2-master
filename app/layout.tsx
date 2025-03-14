@@ -42,7 +42,7 @@ export const metadata: Metadata = {
   },
   icons: {
     // Using sk-logo.png for icons
-    icon: '/sk-logo.png',
+    icon: '/sk-logo-center.png',
     apple: '/apple-touch-icon.png',
     shortcut: ['/favicon-16x16.png', '/favicon-32x32.png'],
     other: [
